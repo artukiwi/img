@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1800 1800" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(4.02865 0 0 4.02955 -107.162 -107.186)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="136.178" x2="372.681" y1="369.638" y2="287.81">
+<stop offset="0.233" stop-color="#f89822"/>
+<stop offset="1" stop-color="#c27818"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1800" width="1800" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1">
+<path d="M1730.3 1800L69.6956 1800C31.4235 1800-1.13687e-13 1768.57-1.13687e-13 1730.29L-1.13687e-13 69.7112C-1.13687e-13 31.4305 31.4235 2.92059e-05 69.6956 2.92059e-05L1730.3 2.92059e-05C1768.58 2.92059e-05 1800 31.4305 1800 69.7112L1800 1730.69C1799.6 1768.97 1768.58 1800 1730.3 1800Z" fill="#4d4d4e" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M414.951 543.586L1356.85 244.594C1356.85 244.594 1423.72 209.537 1407.61 274.412L1410.03 562.525C1410.03 562.525 1421.71 604.835 1363.7 615.312L980.976 734.99L414.951 543.586Z" fill="#f89820" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M414.951 543.586C414.951 543.586 377.887 552.451 388.765 615.715L386.75 893.351C386.75 893.351 383.527 928.408 450 942.512L1383.44 1243.12C1383.44 1243.12 1414.86 1255.61 1411.24 1216.92L1411.64 907.455C1411.64 907.455 1420.5 875.621 1362.49 854.668L980.976 734.99L414.951 543.586Z" fill="#f89820" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M826.276 1063.4L429.051 1184.69C429.051 1184.69 381.11 1186.3 386.75 1276.16C392.39 1366.02 386.347 1546.94 386.347 1546.94C386.347 1546.94 390.376 1580.39 436.303 1561.05L1378.2 1260.44C1378.2 1260.44 1411.64 1251.98 1383.44 1242.71C1355.24 1233.85 826.276 1063.4 826.276 1063.4Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
